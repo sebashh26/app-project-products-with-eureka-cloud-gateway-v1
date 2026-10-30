@@ -1,0 +1,18 @@
+[submodule "products-webflux-tienda2-v1"]
+	path = products-webflux-tienda2-v1
+	url = https://github.com/sebashh26/products-webflux-tienda2-v1
+[submodule "products-webflux-v1"]
+	path = products-webflux-v1
+	url = https://github.com/sebashh26/products-webflux-v1
+[submodule "rastreador-products-webflux-v1"]
+	path = rastreador-products-webflux-v1
+	url = https://github.com/sebashh26/rastreador-products-webflux-v1
+[submodule "client-test-products-front-js-v1"]
+	path = client-test-products-front-js-v1
+	url = https://github.com/sebashh26/client-test-products-front-js-v1
+[submodule "server-eureka-v1"]
+	path = server-eureka-v1
+	url = https://github.com/sebashh26/server-eureka-v1
+[submodule "server-sc-gateway-v1"]
+	path = server-sc-gateway-v1
+	url = https://github.com/sebashh26/server-sc-gateway-v1
